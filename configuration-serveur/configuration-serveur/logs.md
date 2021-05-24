@@ -45,7 +45,6 @@ Les logs consignent différentes actions.
 - Les créations, mises à jour et suppressions de webhooks.
 - Les créations, mises à jour et suppressions d'emojis.
 - Les créations, mises à jour et suppressions d'intégrations.
-
 ## Les filtres
 
 Pour une recherche plus précise, des filtres sont utilisables : 
